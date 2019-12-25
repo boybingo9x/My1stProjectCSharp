@@ -1,0 +1,13 @@
+E:\German\Learning\C#\My1stProject\My1stProject\obj\Debug\My1stProject.fForm1.resources
+E:\German\Learning\C#\My1stProject\My1stProject\obj\Debug\My1stProject.Properties.Resources.resources
+E:\German\Learning\C#\My1stProject\My1stProject\obj\Debug\My1stProject.csproj.GenerateResource.cache
+E:\German\Learning\C#\My1stProject\My1stProject\obj\Debug\My1stProject.csproj.CoreCompileInputs.cache
+E:\German\Learning\C#\My1stProject\My1stProject\bin\Debug\My1stProject.exe.config
+E:\German\Learning\C#\My1stProject\My1stProject\bin\Debug\My1stProject.exe
+E:\German\Learning\C#\My1stProject\My1stProject\bin\Debug\My1stProject.pdb
+E:\German\Learning\C#\My1stProject\My1stProject\obj\Debug\My1stProject.exe
+E:\German\Learning\C#\My1stProject\My1stProject\obj\Debug\My1stProject.pdb
+E:\German\Learning\C#\My1stProject\My1stProject\obj\Debug\My1stProject.csprojAssemblyReference.cache
+E:\German\Learning\C#\My1stProject\My1stProject\obj\Debug\My1stProject.Main.resources
+E:\German\Learning\C#\My1stProject\My1stProject\bin\Debug\DataTest.mdf
+E:\German\Learning\C#\My1stProject\My1stProject\bin\Debug\DataTest_log.ldf
